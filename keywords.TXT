@@ -1,0 +1,5 @@
+SpydrServo	KEYWORD1
+attach		KEYWORD2
+write		KEYWORD2
+detach      KEYWORD2
+read        KEYWORD2
